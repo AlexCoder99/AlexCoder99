@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AlexCoder99
-- 👀 I’m interested in videogames, coding, sports & piano
+- 👀 I’m into videogames, coding, sports & piano
 - 🌱 I’m currently learning HTML, CSS & Javascript
 - 💞️ I’m looking to collaborate on ...
 - 📫 Contacts: none
